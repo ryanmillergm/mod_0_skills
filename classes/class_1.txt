@@ -1,0 +1,34 @@
+Employees
+  Manager
+    First Name(string)
+    Last Name(string)
+    Salary(integer)
+      ObserveTeam(method)
+      WriteSchedule(method)
+
+  Server
+    First Name(string)
+    Last Name(string)
+    Wage(float)
+    Tips(float)
+    Timestamp(datetime)
+      TakeOrder(method)
+      PlaceOrder(method)
+
+  Host
+    First Name(string)
+    Last Name(string)
+    Wage(float)
+    Timestamp(datetime)
+      WelcomeGuest(method)
+      SeatGuest(method)
+
+
+  Cook
+    First Name(string)
+    Last Name(string)
+    Knife(boolean)
+    Wage(float)
+    Timestamp(datetime)
+      MakeEntree(method)
+      PrepFood(method)
