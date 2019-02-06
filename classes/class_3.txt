@@ -1,0 +1,20 @@
+Equipment
+
+Kitchen
+  Oven(integer)
+  Mixer(integer)
+  Slicer(integer)
+  Timestamp(datetime)
+    MixSpeed(method)
+    BakeTemp(method)
+    CollectTimePunches(method)
+    SliceSize(method)
+
+Server
+  POS(boolean)
+  Pens(boolean)
+    PlaceOrder(method)
+
+Busser
+  SanitizerDispenser(boolean)
+    DispenseSanitizer(method)
