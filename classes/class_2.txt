@@ -1,0 +1,23 @@
+Inventory
+
+Meat
+  Ribeye12oz(integer)
+  Hamburger(float)
+  Chicken(float)
+    WeighMeat(method)
+    Count Steaks(method)
+Dairy
+  Milk(float)
+  Cream(float)
+  Cheese(float)
+    WeighCheese(method)
+    CountMilk(method)
+    CountCream(method)
+
+Produce
+  Lettuce(integer)
+  Tomato(integer)
+  Onions(float)
+    CountLettuceHeads(method)
+    CountTomatoes(method)
+    WeighOnions(method)
