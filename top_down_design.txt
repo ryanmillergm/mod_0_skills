@@ -1,0 +1,41 @@
+Getting food at a restaurant.
+
+1. Pick a restaurant
+1.1 Think about different options for restaurant
+1.1.1 Use google to search for options
+2. Drive to restaurant
+2.1 Locate correct key for car.
+2.2 Walk to car.
+2.3 Open door
+2.4 insert key into ignition switch.
+2.5 Turn Key to start vehicle.
+2.6 Accelerate vehicle to drive by pushing gas pedal.
+2.7 Park car at restaurant.
+3. Walk inside restaurant
+3.1 Open door.
+3.2 Walk to host stand.
+4. Ask host for a table
+4.1 Tell how many are in your party
+4.2 Wait to be seated if needed.
+5. Be seated
+5.1 Follow host to table by walking.
+5.2 Sit down at assigned table.
+6 Pick Entree
+6.1 Pick up menu to look inside.
+6.1 Search through menu options.
+6.2 Pick best choice.
+7. Order food through server
+7.1 Speak at a pleasant volume and tone "I would like to order #{entree}"
+8. Wait for food
+8.1 If time allows and you are with other people, make conversation with other people at your party
+9. Eat food
+9.1 First stare at food to appreciate.
+9.2 Take at least 3 pictures of food with phone
+9.3 Spend 5 minutes posting on as many social media sites as possible about food and experience so far.
+9.4 Pick up fork with one hand and knife with the other hand.
+9.5 Cut food if needed with knife vertically and horizontally into 1" x 1/2" pieces.
+9.6 Pick food up with fork by poking or shoveling food.
+9.7 place food in  your mouth
+9.8 Chew by pressing and releasing teeth
+9.9 Swallow once chewed finely.
+9.10 repeat until full.
